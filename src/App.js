@@ -5,6 +5,7 @@ import Singlecard from "./components/Singlecard";
 import Navbar from "./components/Navbar";
 const images = [
   { src: "/imgs/Al_Ahly_SC_logo.svg", matched: false },
+  { src : "/imgs/Chelsea-Logo.png" , matched : false },
   { src: "/imgs/barca.png", matched: false },
   { src: "imgs/Logo_of_AC_Milan.svg.png", matched: false },
   { src: "/imgs/Manchester_City_FC_badge.svg.png", matched: false },
