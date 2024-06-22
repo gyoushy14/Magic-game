@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Magic-game/static/css/main.30ae13e6.css",
+    "main.js": "/Magic-game/static/js/main.2473f303.js",
+    "static/js/453.ed3810f9.chunk.js": "/Magic-game/static/js/453.ed3810f9.chunk.js",
+    "service-worker.js": "/Magic-game/service-worker.js",
+    "index.html": "/Magic-game/index.html",
+    "main.30ae13e6.css.map": "/Magic-game/static/css/main.30ae13e6.css.map",
+    "main.2473f303.js.map": "/Magic-game/static/js/main.2473f303.js.map",
+    "453.ed3810f9.chunk.js.map": "/Magic-game/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ae13e6.css",
+    "static/js/main.2473f303.js"
+  ]
+}
